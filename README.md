@@ -1,4 +1,4 @@
-## DermaSpot, the Deep learning assisted skin diseases (cancer) detection App
+## DermaSpot, a Deep learning assisted skin diseases (cancer) detection App
 This app is developed for UConn Graduate Level Course BME6086: Dev of Mobile Apps for Healthcare. @tracyghz wrote most of the Java code for this project, while @Berlingrad and his partner Chris trained the CNN model.
 
 DermaSpot enables patients to sign up, build their profile, taking pictures of their skin and upload them to the cloud for a doctor to review. Patients can also use this app
