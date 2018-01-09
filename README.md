@@ -10,8 +10,24 @@ skin cancer dataset). Doctors are able to log in and leave comments according to
 This app (DermaSpot) uses AWS Parse server, a cloud based MongoDB (https://aws.amazon.com/marketplace/pp/B01BLQ17TO), as its backend database servre. All it's data are stored in cloud. If you need to replicate this work,
 make sure to have your own Parse server running. Parse docs could be found here http://docs.parseplatform.org/.
 
-## Some screen shots of the app runing, illustraing some of it's main functions
+## Screen shots of DermaSpot illustraing some main functions
 
+### Loading screen
+<img src="ImagesForReadme/screenshot8.png" width="270" height="480">
 
+### Login page
+<img src="ImagesForReadme/screenshot1.png" width="270" height="480">
+
+### User profile
+ <img src="ImagesForReadme/screenshot4.png" width="270" height="480">
+
+### Deep learning suggestion
+ <img src="ImagesForReadme/screenshot3.png" width="270" height="480">
+
+### Patient list (Doctor's account) 
+ <img src="ImagesForReadme/screenshot5.png" width="270" height="480">
+ 
+### Patient information (Doctor's account)
+ <img src="ImagesForReadme/screenshot7.png" width="270" height="480">
 
 
